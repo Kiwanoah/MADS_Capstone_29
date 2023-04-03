@@ -1,0 +1,163 @@
+,file,file_description,column_code,column_name
+0,ED_02-07-2023 04-41-04-68_timeSeries/ED_02-07-2023 04-41-04-68_timeSeries.csv,"                                      Metadata Value
+1                 Export Diversification and Quality
+2  Covers 200 countries with data from 1962 to 20...",,
+0,ED_02-07-2023 04-41-04-68_timeSeries/ED_02-07-2023 04-41-04-68_timeSeries.csv,"                                      Metadata Value
+1                 Export Diversification and Quality
+2  Covers 200 countries with data from 1962 to 20...",total_theil,Export Diversification Index
+0,ED_02-07-2023 04-41-04-68_timeSeries/ED_02-07-2023 04-41-04-68_timeSeries.csv,"                                      Metadata Value
+1                 Export Diversification and Quality
+2  Covers 200 countries with data from 1962 to 20...",between_theil,Extensive Margin
+0,ED_02-07-2023 04-41-04-68_timeSeries/ED_02-07-2023 04-41-04-68_timeSeries.csv,"                                      Metadata Value
+1                 Export Diversification and Quality
+2  Covers 200 countries with data from 1962 to 20...",within_theil,Intensive Margin
+0,FDI_07-14-2022 10-45-25-27_timeSeries/FDI_07-14-2022 10-45-25-27_timeSeries.csv,"                                      Metadata Value
+1                         Financial Development (FD)
+2  The dataset contains nine indices that summari...",,
+0,FDI_07-14-2022 10-45-25-27_timeSeries/FDI_07-14-2022 10-45-25-27_timeSeries.csv,"                                      Metadata Value
+1                         Financial Development (FD)
+2  The dataset contains nine indices that summari...",FD_FD_IX,Financial Development Index
+0,FDI_07-14-2022 10-45-25-27_timeSeries/FDI_07-14-2022 10-45-25-27_timeSeries.csv,"                                      Metadata Value
+1                         Financial Development (FD)
+2  The dataset contains nine indices that summari...",FD_FIA_IX,Financial Institutions Access Index
+0,FDI_07-14-2022 10-45-25-27_timeSeries/FDI_07-14-2022 10-45-25-27_timeSeries.csv,"                                      Metadata Value
+1                         Financial Development (FD)
+2  The dataset contains nine indices that summari...",FD_FID_IX,Financial Institutions Depth Index
+0,FDI_07-14-2022 10-45-25-27_timeSeries/FDI_07-14-2022 10-45-25-27_timeSeries.csv,"                                      Metadata Value
+1                         Financial Development (FD)
+2  The dataset contains nine indices that summari...",FD_FIE_IX,Financial Institutions Efficiency Index
+0,FDI_07-14-2022 10-45-25-27_timeSeries/FDI_07-14-2022 10-45-25-27_timeSeries.csv,"                                      Metadata Value
+1                         Financial Development (FD)
+2  The dataset contains nine indices that summari...",FD_FI_IX,Financial Institutions Index
+0,FDI_07-14-2022 10-45-25-27_timeSeries/FDI_07-14-2022 10-45-25-27_timeSeries.csv,"                                      Metadata Value
+1                         Financial Development (FD)
+2  The dataset contains nine indices that summari...",FD_FMA_IX,Financial Markets Access Index
+0,FDI_07-14-2022 10-45-25-27_timeSeries/FDI_07-14-2022 10-45-25-27_timeSeries.csv,"                                      Metadata Value
+1                         Financial Development (FD)
+2  The dataset contains nine indices that summari...",FD_FMD_IX,Financial Markets Depth Index
+0,FDI_07-14-2022 10-45-25-27_timeSeries/FDI_07-14-2022 10-45-25-27_timeSeries.csv,"                                      Metadata Value
+1                         Financial Development (FD)
+2  The dataset contains nine indices that summari...",FD_FME_IX,Financial Markets Efficiency Index
+0,FDI_07-14-2022 10-45-25-27_timeSeries/FDI_07-14-2022 10-45-25-27_timeSeries.csv,"                                      Metadata Value
+1                         Financial Development (FD)
+2  The dataset contains nine indices that summari...",FD_FM_IX,Financial Markets Index
+0,FM_02-07-2023 04-43-40-20_timeSeries/FM_02-07-2023 04-43-40-20_timeSeries.csv,"                                      Metadata Value
+1                                Fiscal Monitor (FM)
+2  The Fiscal Monitor surveys and analyzes the la...",,
+0,FM_02-07-2023 04-43-40-20_timeSeries/FM_02-07-2023 04-43-40-20_timeSeries.csv,"                                      Metadata Value
+1                                Fiscal Monitor (FM)
+2  The Fiscal Monitor surveys and analyzes the la...",GGCB_G01_PGDP_PT,Cyclically adjusted balance (% of potential GDP)
+0,FM_02-07-2023 04-43-40-20_timeSeries/FM_02-07-2023 04-43-40-20_timeSeries.csv,"                                      Metadata Value
+1                                Fiscal Monitor (FM)
+2  The Fiscal Monitor surveys and analyzes the la...",GGCBP_G01_PGDP_PT,Cyclically adjusted primary balance (% of potential GDP)
+0,FM_02-07-2023 04-43-40-20_timeSeries/FM_02-07-2023 04-43-40-20_timeSeries.csv,"                                      Metadata Value
+1                                Fiscal Monitor (FM)
+2  The Fiscal Monitor surveys and analyzes the la...",G_X_G01_GDP_PT,Expenditure (% of GDP)
+0,FM_02-07-2023 04-43-40-20_timeSeries/FM_02-07-2023 04-43-40-20_timeSeries.csv,"                                      Metadata Value
+1                                Fiscal Monitor (FM)
+2  The Fiscal Monitor surveys and analyzes the la...",G_XWDG_G01_GDP_PT,Gross debt (% of GDP)
+0,FM_02-07-2023 04-43-40-20_timeSeries/FM_02-07-2023 04-43-40-20_timeSeries.csv,"                                      Metadata Value
+1                                Fiscal Monitor (FM)
+2  The Fiscal Monitor surveys and analyzes the la...",GGXWDN_G01_GDP_PT,Net debt (% of GDP)
+0,FM_02-07-2023 04-43-40-20_timeSeries/FM_02-07-2023 04-43-40-20_timeSeries.csv,"                                      Metadata Value
+1                                Fiscal Monitor (FM)
+2  The Fiscal Monitor surveys and analyzes the la...",GGXCNL_G01_GDP_PT,Net lending/borrowing (also referred as overall balance) (% of GDP)
+0,FM_02-07-2023 04-43-40-20_timeSeries/FM_02-07-2023 04-43-40-20_timeSeries.csv,"                                      Metadata Value
+1                                Fiscal Monitor (FM)
+2  The Fiscal Monitor surveys and analyzes the la...",GGXONLB_G01_GDP_PT,Primary net lending/borrowing (also referred as primary balance) (% of GDP)
+0,FM_02-07-2023 04-43-40-20_timeSeries/FM_02-07-2023 04-43-40-20_timeSeries.csv,"                                      Metadata Value
+1                                Fiscal Monitor (FM)
+2  The Fiscal Monitor surveys and analyzes the la...",GGR_G01_GDP_PT,Revenue (% of GDP)
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",,
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",FB_NUM,"Number of branches of foreign bank branches, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",DBD_NUM,"Number of domestic branches of domestically controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",IBD_NUM,"Number of domestic branches of domestically incorporated foreign controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",NDSD_NUM,"Number of domestic non-deposit-taking subsidiaries of domestically controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",NISD_NUM,"Number of domestic non-deposit-taking subsidiaries of domestically incorporated foreign controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",DSD_NUM,"Number of domestic subsidiaries of domestically controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",ISD_NUM,"Number of domestic subsidiaries of domestically incorporated foreign controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",DE_NUM,"Number of domestically controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",IE_NUM,"Number of domestically incorporated foreign controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",DBF_NUM,"Number of foreign branches of domestically controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",IBF_NUM,"Number of foreign branches of domestically incorporated foreign controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",NDSF_NUM,"Number of foreign non-deposit-taking subsidiaries of domestically controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",NISF_NUM,"Number of foreign non-deposit-taking subsidiaries of domestically incorporated foreign controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",DSF_NUM,"Number of foreign subsidiaries of domestically controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",ISF_NUM,"Number of foreign subsidiaries of domestically incorporated foreign controlled reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",TE_NUM,"Number of reporting entities, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",FG_NUM,"Number of reporting groups of foreign bank branches, Number of"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",FA_XDC,"Total assets foreign bank branches, Domestic Currency"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",FA_EUR,"Total assets foreign bank branches, Euros"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",FA_USD,"Total assets foreign bank branches, US Dollars"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",DA_XDC,"Total assets of domestically controlled reporting entities, Domestic Currency"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",DA_EUR,"Total assets of domestically controlled reporting entities, Euros"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",DA_USD,"Total assets of domestically controlled reporting entities, US Dollars"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",IA_XDC,"Total assets of domestically incorporated foreign controlled reporting entities, Domestic Currency"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",IA_EUR,"Total assets of domestically incorporated foreign controlled reporting entities, Euros"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",IA_USD,"Total assets of domestically incorporated foreign controlled reporting entities, US Dollars"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",TA_XDC,"Total Assets, Domestic Currency"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",TA_EUR,"Total Assets, Euros"
+0,FSIRE_02-04-2023 08-23-40-70_timeSeries/FSIRE_02-04-2023 08-23-40-70_timeSeries.csv,"  Financial Institution Code
+1                        NaN
+2                        NaN",TA_USD,"Total Assets, US Dollars"
+0,HPDD_04-11-2020 23-37-06-60_timeSeries/HPDD_04-11-2020 23-37-06-60_timeSeries.csv,"   Frequency
+1        NaN
+2        NaN",GGXWDG_GDP,Debt to GDP Ratio
