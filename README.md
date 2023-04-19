@@ -1,1 +1,1 @@
-# Predicting GDP of A Country using IMF and World Bank Data
+# Predicting GDP Per Capita By Data Blending of Micro and Macro Economic Indicators
